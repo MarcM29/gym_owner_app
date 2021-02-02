@@ -1,3 +1,5 @@
+# *This was a school project*
+
 # gym_owner_app
 The app allows the gym owner (user) to keep track of revenue, expenses, net profit/loss (monthly and yearly) and manage currently enrolled members as well as whether certain members are up to date on their payments or not. <br /><br />
 Owner can create/add new members to the system, all new members are created under good standing. <br /><br />
